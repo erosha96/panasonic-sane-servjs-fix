@@ -4,7 +4,7 @@ I managed to get a **Panasonic scanner working on Linux** through **SANE** in co
 
 ---
 
-## 🚨 Known Issues
+## 🚨 Fow what?
 
 There are two global issues with the Panasonic driver:
 
